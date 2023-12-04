@@ -1,0 +1,44 @@
+# Node.js
+node_modules/
+
+# Babel
+dist/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Output of 'npm pack'
+*.tgz
+
+# Visual Studio Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# MSSQL
+.sqluser
+.sqlsuo
+*.mdf
+*.ldf
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+.jekyll-cache/
+.jekyll-metadata
